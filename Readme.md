@@ -14,12 +14,6 @@ Baby Smash is a fun and interactive WPF application designed to entertain babies
 - Configurable fade-out speed.
 - Announcements of shape names using the built-in Windows text-to-speech.
 
-# Baby Smash
-
-![Baby Smash][Baby Smash/BabySmash.png]
-
-Baby Smash is a fun and interactive WPF application designed to entertain babies by displaying colorful shapes and announcing their names when they are clicked on or when any key is pressed.
-
 ## Features
 
 - Displays random shapes when the mouse is clicked or any key is pressed.
