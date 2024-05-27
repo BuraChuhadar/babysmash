@@ -1,0 +1,94 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of the presence of 'project.json' or 'packages.config' files.
+# NuGet packages are restored on-demand from public/private sources.
+[Aa][Ss][Pp][Nn][Ee][Tt][Cc][Oo][Rr][Ee]/
+!.gitignore
+# Uncomment if necessary however generally it will be regenerated if missing.
+[Pp]ackages/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.swo
+*.swp
+
+# Files built by Visual Studio
+*.sln.docstates
+.vs/
+
+# JetBrains Rider
+.idea/
+
+# Rider/R# settings directories
+.idea/
+
+# Legacy database files
+*.sdf
+*.mdf
+*.ldf
+
+# Microsoft Azure Web Apps
+/.azure/
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+
+# Node.js Tools for Visual Studio
+node_modules/
+
+# Web component package directories
+bower_components/
+
+# Yarn directory for projects using node.js
+.yarn/
+
+# Windows-specific files
+.DS_Store
+$RECYCLE.BIN/
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db

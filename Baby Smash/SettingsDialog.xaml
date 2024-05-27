@@ -1,0 +1,12 @@
+﻿<!-- SettingsDialog.xaml -->
+<Window x:Class="Baby_Smash.SettingsDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Settings" Height="200" Width="300">
+    <StackPanel Margin="10">
+        <CheckBox x:Name="DarkModeCheckBox" Content="Enable Dark Mode" Margin="5"/>
+        <Slider x:Name="FadeSpeedSlider" Minimum="1" Maximum="10" TickFrequency="1" IsSnapToTickEnabled="True" Value="5" Margin="5"/>
+        <TextBlock Text="Adjust Fade Speed (1 = Slow, 10 = Fast)"/>
+        <Button Content="Save" Margin="5" Click="SaveButton_Click"/>
+    </StackPanel>
+</Window>
